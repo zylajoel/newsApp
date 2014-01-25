@@ -1,0 +1,22 @@
+{
+  "name": "newsApp",
+  "version": "0.0.0",
+  "description": "News Application",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zylajoel/newsApp.git"
+  },
+  "keywords": [
+    "News"
+  ],
+  "author": "Joel Zyla",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.8"
+  }
+}
